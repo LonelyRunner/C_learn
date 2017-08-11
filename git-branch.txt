@@ -1,0 +1,6 @@
+git branch test;
+切换并创建分支:git checkout -b dev  
+	--相当于 git branch dev
+                 git checkout dev
+
+
