@@ -1,4 +1,4 @@
-# C_learn
+= C_learn
 study C language
 
 learn C language and git operation.
@@ -24,7 +24,7 @@ git checkout dev
 git log
 
 //格式化提交记录
-git log --pretty-oneline --abbrev-commit
+git log --pretty=oneline --abbrev-commit
 
 //查看所有标签
 git tag
